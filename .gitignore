@@ -29,3 +29,10 @@ Thumbs.db
 
 # Temporary / scratch files
 a.txt
+
+# Test videos (too large for GitHub — add your own videos to 'testing vidio/' folder)
+testing vidio/*.mp4
+testing vidio/*.avi
+testing vidio/*.mov
+testing vidio/*.jpg
+testing vidio/*.png
