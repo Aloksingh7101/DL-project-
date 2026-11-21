@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Model weights (auto-downloaded on first run)
+*.pt
+models/*.pt
+
+# Generated outputs
+outputs/annotated_*.mp4
+outputs/snapshots/*.jpg
+outputs/climber.jpg
+outputs/safe_worker.jpg
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary / scratch files
+a.txt
